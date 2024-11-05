@@ -25,3 +25,10 @@ Description: This notebook includes the implementation of machine learning model
 Notebook: LungCancerClassification.ipynb
 
 Description: The final results are analyzed and visualized, with a focus on metrics like AUC, sensitivity, and specificity. This step highlights the model’s effectiveness in distinguishing between benign and malignant nodules.
+
+# Requirements
+To install the requirements run:
+pip install -r requirements.txt
+
+
+
