@@ -32,9 +32,30 @@ To install the requirements, run:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 # References
+- Liu, L., Liu, Y., & Zhao, H. (2018). Benign and malignant solitary pulmonary nodules classification based on CNN and SVM. *ACM International Conference Proceeding Series*.
+
+- Xie, Y., Zhang, J., Xia, Y., Fulham, M., & Zhang, Y. (2018). Fusing texture, shape and deep model-learned information at decision level for automated classification of lung nodules on chest CT. *Information Fusion*.
+
+- Torres, G. (2023). Prediction of Malignancy in Lung Cancer using several strategies for the fusion of Multi-Channel Pyradiomics Images. *EasyChair - PrePrint*.
+
+- Shen, W., Zhou, M., Yang, F., Yang, C., & Tian, J. (2015). Multi-scale convolutional neural networks for lung nodule classification. In *Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)*.
+
+- Bak, S.H., Lee, H.Y., Lee, G., & Park, H. (2018). Radiomics in lung cancer from basic to advanced: Current status and future directions. *Korean Journal of Radiology*.
+
+- Causey, J.L., Zhang, J., Ma, S., Jiang, B., Qualls, J.A., Politte, D.G., Prior, F., Zhang, S., & Huang, X. (2018). Highly accurate model for prediction of lung nodule malignancy with CT scans. *Scientific Reports*.
+
+- Kumar, D., Wong, A., & Clausi, D. A. (2015). Lung nodule classification using deep features in CT images. Conference on Computer and Robot Vision, 133-138
+
+- Dunn, B., Pierobon, M., & Wei, Q. (2023). Automated Classification of Lung Cancer Subtypes Using Deep Learning and CT-Scan Based Radiomic Analysis. Bioengineering, 10(690).
+
+- Hesse, L.S., de Jong, P.A., Pluim, J.P.W., & Cheplygina, V. (2020). Primary Tumor Origin Classification of Lung Nodules in Spectral CT using Transfer Learning.
+
+- S.P. Morozov, A.E. Andreychenko, N.A. Pavlov, A.V. Vladzymyrskyy, N.V. Ledikhova, V.A. Gombolevskiy, I.A. Blokhin, P.B. Gelezhe, A.V. Gonchar, V.Yu. (2020) CherninaMosMedData: Chest CT Scans with COVID-19 Related Findings Dataset.
+
+
 
 
 
