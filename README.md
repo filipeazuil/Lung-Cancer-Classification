@@ -27,8 +27,12 @@ Notebook: LungCancerClassification.ipynb
 Description: The final results are analyzed and visualized, with a focus on metrics like AUC, sensitivity, and specificity. This step highlights the model’s effectiveness in distinguishing between benign and malignant nodules.
 
 # Requirements
-To install the requirements run:
+
+To install the requirements, run:
+
+```bash
 pip install -r requirements.txt
+
 
 
 
