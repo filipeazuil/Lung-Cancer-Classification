@@ -1,4 +1,13 @@
 # Lung Nodule Classification 
+
+Made by: 
+
+- [Filipe Barros](https://github.com/filipeazuil)
+- [Joao Barao](https://github.com/jbarao04)
+- [Goncalo Arrobas](https://github.com/jbarao04)
+
+
+
 ### Project Overview
 In this project our goal is to develop a Data Science-based solution to solve the problem of Lung Cancer Classification using Computerized Tomography (CT) Data. Lung cancer remains one of the most critical health challenges, and early, accurate detection plays a key role in improving patient outcomes. By leveraging machine learning models, this project aims to differentiate between benign and malignant lung nodules based on CT data.
 
