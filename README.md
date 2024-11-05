@@ -4,7 +4,7 @@ Made by:
 
 - [Filipe Barros](https://github.com/filipeazuil)
 - [Joao Barao](https://github.com/jbarao04)
-- [Goncalo Arrobas](https://github.com/jbarao04)
+- [Goncalo Arrobas](https://github.com/Garrobas)
 
 
 
