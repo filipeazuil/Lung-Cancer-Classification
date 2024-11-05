@@ -1,2 +1,8 @@
-# Lung-Cancer-Study
-Laboratory of Artificial Intelligence and Data Science Class, 3º Year, 1º Semester. Project 1 - Lung Cancer Classification using Computerized Tomography (CT) Data
+# Lung Cancer Classification using CT Data
+### Project Overview
+In this project, our goal is to develop a data science solution for classifying lung cancer using features extracted from Computerized Tomography (CT) scan images. Lung cancer remains one of the most critical health challenges, and early, accurate detection plays a key role in improving patient outcomes. By leveraging machine learning models, this project aims to differentiate between benign and malignant lung nodules based on CT data.
+
+### Data
+The dataset consists of CT scan images from 1,010 patients. Each scan image includes detailed visual information that enables us to identify patterns associated with malignancy. Using feature extraction methods, we transform these images into a structured dataset, allowing for efficient analysis and model training.
+
+
